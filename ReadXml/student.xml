@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<student idno="101">
+		<firstname>snehal </firstname>
+		<lastname> hinge</lastname>
+		<marks>80</marks>
+	</student>
+	<student idno="102">
+		<firstname>sonal </firstname>
+		<lastname> mule</lastname>
+		<marks>70</marks>
+	</student>
+	<student idno="101">
+		<firstname>sonakshi </firstname>
+		<lastname> karve</lastname>
+		<marks>70</marks>
+	</student>
+	<student idno="101">
+		<firstname> monica </firstname>
+		<lastname> kale</lastname>
+		<marks>90</marks>
+	</student>
+</class>
